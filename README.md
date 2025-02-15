@@ -57,7 +57,7 @@ Now, update your `main.dart` with the following:
 
 ---
 
-### **Updated Flutter M-Pesa Payment Code**
+### **Flutter M-Pesa Payment Code**
 ```dart
 import 'package:flutter/material.dart';
 import 'package:mpesa_flutter_plugin/mpesa_flutter_plugin.dart';
@@ -190,10 +190,3 @@ Once you’re ready for live payments:
 
 ---
 
-## **Step 6: Sharing with Others**
-Now that you understand how it works, you can teach others by:
-- Explaining how to obtain credentials.
-- Demonstrating how STK Push works.
-- Walking through the Flutter implementation.
-
-Would you like a PDF or step-by-step slides to help with teaching? 🚀
