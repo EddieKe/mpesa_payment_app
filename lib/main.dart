@@ -40,11 +40,11 @@ class _PaymentScreenState extends State<PaymentScreen> {
         businessShortCode: "174379", // Replace with your Shortcode
         transactionType: TransactionType.CustomerPayBillOnline,
         amount: 10.0, // Payment amount
-        partyA: "254701440449", // Replace with your phone number (MSISDN)
-        partyB: "174379", // Replace with the M-Pesa Paybill/Till number
+        partyA: "254701440449", // your phone number (MSISDN)
+        partyB: "174379", //  M-Pesa Paybill/Till number
         callBackURL: Uri.parse("https://mpesa.free.beeceptor.com"),
         accountReference: "Test Payment",
-        phoneNumber: "2547XXXXXXXX", // Replace with customer's phone number
+        phoneNumber: "2547XXXXXXXX",
         baseUri: Uri.parse("https://sandbox.safaricom.co.ke"),
         transactionDesc: "Payment for goods/services",
         passKey:
