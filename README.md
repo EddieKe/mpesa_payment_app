@@ -1,6 +1,3 @@
-Alright! I'll guide you step by step on how to implement M-Pesa payments in your Flutter app using `mpesa_flutter_plugin`. I'll also modify the code so that it's unique while keeping it simple and understandable.
-
----
 
 ## **Step 1: Set Up Your M-Pesa API Credentials**
 Before implementing M-Pesa payments, you need to set up your credentials.
@@ -45,15 +42,8 @@ flutter pub get
 
 ---
 
-## **Step 3: Modify the Flutter Code for M-Pesa Payment**
-Below is a cleaned-up, optimized version of your code that removes any plagiarism risks while making it easy to understand.
-
-### **Key Improvements:**
-✅ Uses better variable names for clarity  
-✅ Adds comments for understanding each step  
-✅ Removes redundant code  
-
-Now, update your `main.dart` with the following:
+## **Step 3: Add this Code t your Flutter app for M-Pesa Payment**
+ update your `main.dart` with the following:
 
 ---
 
@@ -136,7 +126,6 @@ class _PaymentScreenState extends State<PaymentScreen> {
 }
 ```
 
----
 
 ## **Step 4: Understanding the Code**
 Here’s what happens when you run this app:
@@ -187,6 +176,4 @@ Once you’re ready for live payments:
    - Passkey (from Production Credentials)
    - Base URL: `"https://api.safaricom.co.ke"`
 3. Test using a real Safaricom line.
-
----
 
